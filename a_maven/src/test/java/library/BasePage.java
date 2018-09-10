@@ -12,6 +12,7 @@ package library;
 
 	public class BasePage {
 		public WebDriver driver;
+		//
 		public WebDriverWait wait;
 		
 		public BasePage(WebDriver driver) {
